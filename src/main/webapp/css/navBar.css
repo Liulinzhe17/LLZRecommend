@@ -1,0 +1,121 @@
+.postHover {
+	cursor: pointer;
+}
+.postone {
+	margin-bottom: 30px;
+}
+.nodata {
+	height: 30px;
+	margin-top: 10px;
+	text-align: center;
+	line-height: 30px;
+}
+.copyright {
+	height: 60px;
+	background-color: #9BE5D9;
+	margin-top: 10px;
+	text-align: center;
+	line-height: 60px;
+}
+.readmore {
+	background-color: #ecf3f6;
+	height: 50px;
+	margin-top: 10px;
+	border: 1px dotted;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 50px;
+}
+.love img{
+	position: absolute;
+	width: 32px;
+	height:32px;
+	top:50%;
+	left:50%;
+}
+.lovebreak img{
+	position: absolute;
+	width: 332px;
+	height:332px;
+	top:50%;
+	left:50%;
+	opacity: 0.5;
+}
+.logoIMG {
+	width: 330px;
+	height: 50px;
+	background: url(../img/logo_LLZRecommend.png);
+	opacity: 1.0;
+}
+.date {
+	border-bottom: 3px #4688f1 solid;
+	padding-bottom: 10px;
+}
+.date span img {
+	width: 20px;
+	height: 20px;
+}
+.date em {
+	color: #4688f1;
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 5px;
+}
+.date small {
+	color: #9BE5D9;
+}
+.post {
+	/*height: 80px;*/
+	border-bottom: 1px dashed #346459;
+}
+.userInfo {
+	/*background-color: red;*/
+	padding: 10px;
+}
+.userInfo img {
+	width: 40px;
+	/*height: 40px;*/
+}
+.userInfo span {
+	width: 40px;
+	/*height: 10px;*/
+}
+.content {
+	/*background-color: blue;*/
+	padding: 10px;
+	padding-left:0px;
+}
+.content p {
+	font-weight: bold;
+	font-size: 20px;
+}
+.content span {
+	color: #B4BFC2;
+}
+.content span small {
+	color: #5B5F60;
+}
+.thumb {
+	/*background-color: green;*/
+	margin: 5px;
+	padding-top: 15px;
+	padding-bottom:15px ;
+	border: 1px solid;
+	border-radius: 40px;
+	height: 70px;
+}
+.thumb img {
+	width: 20px;
+	height: 20px;
+}
+.thumb span {
+	color: #A973A9;
+	width: 20px;
+	height: 10px;
+}
+/*重写bootstrap*/
+.navbar-default {
+	background-color: #9BE5D9;
+	opacity: 1.0;
+}
+
